@@ -1,6 +1,6 @@
-# IT-Cover Public License, version 1.0
+# Advise Tech Public License, version 1.0
 
-Public license for open-source code published by IT-Cover, based on the
+Public license for open-source code published by Advise Tech, based on the
 the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause).
 
 For the full license text, please refer to the **LICENSE.txt** file.
